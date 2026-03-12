@@ -53,7 +53,9 @@ Priya, coordinate with the design team by March 5th."
 This project was created as part of a college assignment, demonstrating how Large Language Models (LLMs) can be applied to build practical productivity tools for real-world use cases.
 
 👨‍💻 Developers
+
        Name	                      Role	                                     GitHub
+       
 Saurya Jaiswal 	      AI Integration & Development	            @https://github.com/sauryajaiswal
 
 S.R Deepak	              Software Developer	                  @https://github.com/Deepak-chetty
