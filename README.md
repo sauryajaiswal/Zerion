@@ -1,43 +1,61 @@
-# Zerion: AI-based Meeting Action-Item Extraction
+Zerion: AI-Powered Meeting Action Item Extractor
 
-Zerion is a modern web application designed to help college students and professionals extract meaningful action items from meeting transcripts using AI.
+Zerion is a modern web application that helps students and professionals automatically identify and extract actionable tasks from meeting transcripts using artificial intelligence.
 
-## 🚀 Features
-- **Modern UI**: Dark mode with glassmorphism and smooth animations.
-- **AI Extraction**: Powered by Google Gemini (1.5 Flash) for fast and accurate task identification.
-- **Structured Output**: Clear breakdown of tasks, owners, deadlines, and priorities.
-- **JSON Export**: Export your results easily for integration with other tools.
+🚀 Features
 
-## 🛠️ Tech Stack
-- **Frontend**: React + Vite (TS)
-- **Styling**: Vanilla CSS (Custom tokens)
-- **Animations**: Framer Motion
-- **AI**: Google Generative AI (@google/generative-ai)
+Modern User Interface – Dark mode design with glassmorphism effects and smooth animations.
 
-## 🚦 Getting Started
+AI-Driven Extraction – Utilizes Google Gemini (1.5 Flash) to quickly detect tasks and responsibilities from conversations.
 
-### 1. Prerequisites
-- Node.js (v20 or higher)
-- npm
+Structured Results – Organizes extracted data into tasks, owners, deadlines, and priorities for better clarity.
 
-### 2. Installation
-```powershell
+JSON Export – Easily export extracted action items for integration with other applications or workflows.
+
+🛠️ Tech Stack
+
+Frontend: React + Vite (TypeScript)
+
+Styling: Vanilla CSS with custom design tokens
+
+Animations: Framer Motion
+
+AI Integration: Google Generative AI (@google/generative-ai)
+
+🚦 Getting Started
+1. Prerequisites
+
+Node.js (v20 or later)
+
+npm
+
+2. Installation
 npm install
-```
-
-### 3. Running the App
-```powershell
+3. Run the Application
 npm run dev
-```
+4. How to Use
 
-### 4. Usage
-1. Open the app in your browser (usually `http://localhost:5173`).
-2. (Optional) Go to **Settings** and enter your **Gemini API Key**.
-3. Paste a meeting transcript into the text area.
-4. Click **Extract Action Items**.
+Open the application in your browser (typically http://localhost:5173).
 
-## 📝 Example Transcript
-> "Rahul, can you make sure to send the project proposal by next Tuesday? Also, Priya, please coordinate with the design team by March 5th."
+(Optional) Navigate to Settings and enter your Gemini API Key.
 
-## 🎓 College Project Context
-This project was developed as part of a college assignment to demonstrate the practical application of LLMs in productivity tools.
+Paste your meeting transcript into the input field.
+
+Click Extract Action Items to generate structured tasks.
+
+📝 Example Transcript
+
+"Rahul, please send the project proposal by next Tuesday.
+Priya, coordinate with the design team by March 5th."
+
+🎓 Academic Context
+
+This project was created as part of a college assignment, demonstrating how Large Language Models (LLMs) can be applied to build practical productivity tools for real-world use cases.
+
+👨‍💻 Developers
+       Name	                      Role	                                     GitHub
+Saurya Jaiswal 	      AI Integration & Development	            @https://github.com/sauryajaiswal
+
+S.R Deepak	              Software Developer	                  @https://github.com/Deepak-chetty
+
+Jayesh Chandra	            UI/UX & Tester	                    @https://github.com/jc4477
