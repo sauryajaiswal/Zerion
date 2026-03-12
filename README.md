@@ -55,6 +55,6 @@ This project was created as part of a college assignment, demonstrating how Larg
 👨‍💻 Developers
 
            Name	                     Role	                            GitHub
-       Saurya Jaiswal         AI Integration & Development	       https://github.com/sauryajaiswal
-       S.R Deepak	             Software Developer	                  https://github.com/Deepak-chetty
-       Jayesh Chandra	               UI/UX & Tester	                  https://github.com/jc4477
+       Saurya Jaiswal         AI Integration & Development	     https://github.com/sauryajaiswal
+       S.R Deepak	        Software Developer	                https://github.com/Deepak-chetty
+       Jayesh Chandra	        UI/UX & Tester	                https://github.com/jc4477
